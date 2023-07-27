@@ -1,0 +1,2 @@
+import setuptools_editable_case_insensitive.module_1
+import setuptools_editable_case_insensitive.Module_1
